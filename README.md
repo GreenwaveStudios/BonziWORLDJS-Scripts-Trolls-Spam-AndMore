@@ -1,3 +1,5 @@
+<h1>COLLABRATORS, IF YOU WISH TO CONTRIBUTE TO THE THWOMPTOOLS TROLLING PANEL, EDIT "ThwompTOOLS.js"! THANK YOU</h1>
+
 <h1>what tf is this?</h1>
 <p>These js scripts are trolling/fun scripts for bonzi.gay to troll people</p>
 <h1>how 2 yewse?</h1>
