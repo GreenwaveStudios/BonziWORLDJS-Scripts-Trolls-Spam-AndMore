@@ -16,5 +16,12 @@ Just paste these code pieces into the dev console. Simple. You do this with almo
 <p>When you're done, just click Start. You should turn into a near perfect clone of the user you want to turn into, say the thing in the text bubble, then turn back to a Mimic character with the pot hat and black color. </p>
 <p>There's also a "Change Into Mimic" color to change into the black pot Mimic outfit automatically</p>
 <img width="389" height="452" alt="image" src="https://github.com/user-attachments/assets/ceac5b57-59b4-4e00-84fd-838b259928ec" />
+<ul><b>ThwompTOOLS.js
+</b>
+<P>Like the MimicGUI, but includes spamming, and color spamming.</P>
+<img width="376" height="562" alt="image" src="https://github.com/user-attachments/assets/ee035dd5-0fb2-453d-a952-b24d79d93396" />
+
+
+
 
 
