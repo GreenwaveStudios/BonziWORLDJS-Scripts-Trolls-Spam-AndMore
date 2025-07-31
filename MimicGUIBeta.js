@@ -18,6 +18,7 @@
       </label>
       <label style="margin-top:10px;">HAT:
         <select id="userHat" style="width:100%;padding:5px;margin-top:3px;border:1px solid blue;background:black;color:white;">
+            <option>none</option>
           <option>bucket</option>
           <option>pot</option>
           <option>chain</option>
