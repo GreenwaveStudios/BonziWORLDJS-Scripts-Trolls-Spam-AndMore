@@ -128,7 +128,7 @@
 
     if (typeof socket !== "undefined") {
     
-      javascript:setInterval(function(){socket.emit("command", { list: ["color"] });},110);
+      javascript:(() => { setInterval(() => { socket.emit("command", { list: ["color"] }); }, 150); })();
 
     } else {
       alert("socket is not defined!");
