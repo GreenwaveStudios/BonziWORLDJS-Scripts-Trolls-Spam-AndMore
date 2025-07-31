@@ -14,5 +14,5 @@ Just paste these code pieces into the dev console. Simple. You do this with almo
 <p>There's also a "Change Into Mimic" color to change into the black pot Mimic outfit automatically</p>
 <img width="389" height="452" alt="image" src="https://github.com/user-attachments/assets/ceac5b57-59b4-4e00-84fd-838b259928ec" />
 
-<ul><b>Color Spam.js</b> - Does a color spam.</ul>
-<ul><b>Outfit Spam.js</b> - Spams both color and hat.</ul>
+<ul><b>Color_Spamming.js</b> - Does a color spam.</ul>
+<ul><b>Outfit_Spam.js</b> - Spams both color and hat.</ul>
