@@ -3,7 +3,8 @@
 <h1>how 2 yewse?</h1>
 Just paste these code pieces into the dev console. Simple. You do this with almost everything here, although you can make them into bookmarklets
 <h1>what do these do?</h1>
-<ul><b>MimicGUI.js</b> - opens a html menu with 4 options, color, hat, nickname and text. you can use this for an impersonation troll that makes it looks like somebody else said something awkward or funny.</ul>
+<ul><b>ThwompmansMimicGUI_Beta.js
+</b> - opens a html menu with 4 options, color, hat, nickname and text. you can use this for an impersonation troll that makes it looks like somebody else said something awkward or funny.</ul>
 <ul><b>Color_Spamming.js</b> - Does a color spam.</ul>
 <ul><b>Outfit_Spam.js</b> - Spams both color and hat.</ul>
 <h2>what do you do with those options in mimicgui?</h2>
