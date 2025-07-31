@@ -57,7 +57,7 @@
        <h2>SPAMMER</h2>
       <label style="margin-top:10px;">TEXT TO SPAM<input type="text" id="userSpam" style="width:100%;padding:5px;margin-top:3px;border:1px solid blue;background:black;color:white;"></label>
       <button id="spam" style="margin-top:15px;width:100%;padding:8px;background-color:blue;color:black;border:none;border-radius:5px;cursor:pointer;">SPAM</button>
-      <button id="Cspam" style="margin-top:15px;width:100%;padding:8px;background-color:blue;color:black;border:none;border-radius:5px;cursor:pointer;">COLORSPAM</button>
+      <button id="CSpam" style="margin-top:15px;width:100%;padding:8px;background-color:blue;color:black;border:none;border-radius:5px;cursor:pointer;">COLORSPAM</button>
       </p>
     </div>
   `;
